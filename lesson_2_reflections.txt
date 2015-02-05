@@ -1,3 +1,19 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-git creates a .git dir.  This tells git that it needs to start tracking the changes to this directory.
+  git creates a .git dir.  This tells git that it needs to start tracking the changes to this directory.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+  staging area is a temp holding spot to organize files before committing them.  Sanity check before committing changes.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+  I am not sure...
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+  when preparing to release new versions of a program, or variations of the original program, such as porting to other platforms.
+
+How do the diagrams help you visualize the branch structure?
+
+I am a visual learner, I find ideas expressed in picture easier to grasp and retain.
