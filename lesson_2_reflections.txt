@@ -17,3 +17,11 @@ What are some situations when branches would be helpful in keeping your history 
 How do the diagrams help you visualize the branch structure?
 
 I am a visual learner, I find ideas expressed in picture easier to grasp and retain.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+  there was nothing to merge: I didn't have access to the coins branch
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+simple non-confliciting changes can be auto-merged.  Beyond that, the humans need to figure out what to keep and what to discard.  For now...
